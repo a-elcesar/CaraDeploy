@@ -2,6 +2,6 @@ Kalo project udah siap deploy:
     $ npm run build
     $ netlify deploy
     *pilih create new, enter*
-    *kasih nama, bebas, ini nanti jadi url
+    *kasih nama (opsional), better kasih nama bebas, karna ini nanti jadi url
     (contoh; kasih nama: btcinfo, nanti url nya jadi: https://btcinfo.netlify.com*
     *deploy path; ketik "./build" tanpa tanda petik
